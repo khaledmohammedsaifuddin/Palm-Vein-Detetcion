@@ -1,4 +1,4 @@
-# Palm-Vein-Detetcion
+# Palm-Vein-Detetcion- System
 Palm Vein Detection Technique using OpenCV
 To detect the vein of a human beings palm we have to first take a picture of palm. As we know hemoglobin in our blood absorbs infrared light so we can use some infrared LEDs below one's hand and then take picture of palm by using RasberryPi NOIR camera. 
 # Procedures
